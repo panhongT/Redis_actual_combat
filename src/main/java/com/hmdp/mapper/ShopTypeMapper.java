@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  *  Mapper 接口
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
+ * @author pht
+ * @since 2022-06
  */
 public interface ShopTypeMapper extends BaseMapper<ShopType> {
 

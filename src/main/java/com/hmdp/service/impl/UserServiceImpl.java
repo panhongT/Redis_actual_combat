@@ -96,8 +96,6 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
 
         // 6返回token给客户端
         return Result.ok(token);
-
-
     }
 
     @Override
